@@ -8,9 +8,9 @@
 
 ## 🌐 相关链接
 
-[Bilibili@KFACBT](https://space.bilibili.com/514279030)
-[Github@gytxtx](https://github.com/gytxtx)
-gytxtx@outlook.com [向我发送邮件](mailto:gytxtx@outlook.com)
-[Telegram@KFACBT](https://t.me/lagsnes)
-[QQ@KFACBT(1018307946)](about:blank)
-[**网站** gytxtx.github.io](https://gytxtx.github.io/) 
+- [Bilibili@KFACBT](https://space.bilibili.com/514279030)
+- [Github@gytxtx](https://github.com/gytxtx)
+- gytxtx@outlook.com [向我发送邮件](mailto:gytxtx@outlook.com)
+- [Telegram@KFACBT](https://t.me/lagsnes)
+- [QQ@KFACBT(1018307946)](about:blank)
+- [**网站** gytxtx.github.io](https://gytxtx.github.io/) 
