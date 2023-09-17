@@ -6,7 +6,7 @@
 ## 我会什么？
 `HTML`、`MarkDown`和`易语言`。
 
-## 🌐 相关链接
+## 相关链接
 
 - [Bilibili@KFACBT](https://space.bilibili.com/514279030)
 - [Github@gytxtx](https://github.com/gytxtx)
