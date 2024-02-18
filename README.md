@@ -1,7 +1,7 @@
 # About
 # 关于我
 ## 我是谁？
-**KFACBT(gytxtx)** 。一个普普通通的人；还喜欢二次元；研究`Windows`、`易语言`和 **网站**。  
+**KFACBT(gytxtx)** 。一个普普通通的人；还喜欢二次元；研究 `Windows`、`易语言` 和 **网站**。  
 
 ## 我会什么？
 `HTML`、`Markdown` 和 `易语言`。
